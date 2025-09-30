@@ -13,6 +13,8 @@
 
 ---
 
+---
+
 ## 💡 Sobre mí
 
 Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
@@ -39,12 +41,9 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 
 ## 📂 Proyectos destacados
 
-- **Análisis climatológico predictivo:** Aplicación de Ridge, Lasso y Elastic Net para predicción de radiación solar con datos NASA POWER, incluyendo análisis exploratorio completo y visualizaciones profesionales.
-- **Visualizaciones de impacto:** Gráficos radar, matrices de correlación y dashboards interactivos optimizados para presentaciones ejecutivas.
-- **Workflows reproducibles:** Documentación técnica completa con RMarkdown, desde data cleaning hasta interpretación de modelos con rigor científico.
-
----
-
+-   **Análisis climatológico predictivo:** Aplicación de Ridge, Lasso y Elastic Net para predicción de radiación solar con datos NASA POWER, incluyendo análisis exploratorio completo y visualizaciones profesionales.
+-   **Visualizaciones de impacto:** Gráficos radar, matrices de correlación y *dashboards* interactivos optimizados para presentaciones ejecutivas.
+-   **Workflows reproducibles:** Documentación técnica completa con RMarkdown, desde *data cleaning* hasta interpretación de modelos con rigor científico.
 
 ---
 
@@ -56,8 +55,6 @@ Profundizando en modelado avanzado, MLOps y mejores prácticas de ciencia de dat
 
 ---
 
-> 💻 Construido con curiosidad y disciplina  
-> 📚 Siempre desafiándome, siempre mejorando  
+> 💻 Construido con curiosidad y disciplina
+> 📚 Siempre desafiándome, siempre mejorando
 > ☕ Made with coffee + dedication to learning
-
-</div>
