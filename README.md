@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Ciencia de datos, análisis y tecnología" />
+</p>
+
+<h1 align="center">¡Bienvenido(a) a mi perfil de GitHub!</h1>
+<p align="center">
+  Es un gusto recibirte.<br>
+  Aquí encontrarás proyectos donde la curiosidad, el análisis y la tecnología se unen para crear soluciones con impacto.
+</p>
+
 # Alejandro Figueroa Rojas
 
 **Ingeniero Comercial | Transformo datos en decisiones estratégicas | Python · R · ML**
@@ -19,7 +29,7 @@
 
 Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
 
-Mi formación y pasión me han llevado a dominar herramientas de análisis esenciales como **SQL**, **Excel Avanzado**, y **Power BI**. Complemento esta base con un fuerte desarrollo en **Python** y **R** (incluyendo desarrollo con **RMarkdown**), aplicando técnicas de **machine learning** e **inteligencia artificial**.
+Mi formación y pasión me han llevado a dominar herramientas de análisis esenciales como **Power BI**, **Excel Avanzado** y **SQL**. Complemento esta base con un fuerte desarrollo en **Python** y **R** (incluyendo desarrollo con **RMarkdown**), aplicando técnicas de **machine learning** .
 
 Apasionado por el aprendizaje continuo y los desafíos analíticos, disfruto explorar nuevas formas de representar información de manera clara, estética y orientada a la toma de decisiones. Mi interés por la **ciencia de datos** me motiva a desarrollar proyectos reproducibles y bien documentados, siempre con el objetivo de aprender, compartir y mejorar.
 
@@ -54,9 +64,10 @@ Profundizando en modelado avanzado, MLOps y mejores prácticas de ciencia de dat
 📬 [Alejandro.figueroa.rojas@gmail.com](mailto:Alejandro.figueroa.rojas@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alejandrofigueroarojas)
 
 ---
-
-> 💻 Construido con curiosidad y disciplina
-> 📚 Siempre desafiándome, siempre mejorando
-> ☕ Made with coffee + dedication to learning
->
-> 
+<p align="center">
+  💻 Construido con curiosidad y disciplina <br>
+  <img src="https://via.placeholder.com/1x40/cccccc/cccccc" width="2" height="40"><br>
+  📚 Siempre desafiándome, siempre mejorando <br>
+  <img src="https://via.placeholder.com/1x40/cccccc/cccccc" width="2" height="40"><br>
+  ☕ Made with coffee + dedication to learning
+</p>
