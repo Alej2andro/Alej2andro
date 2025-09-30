@@ -42,8 +42,10 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 * **Integración *end-to-end***: datos → modelos → *insights*.
 * **Mentalidad de mejora continua** y aprendizaje activo.
 
-[![Email](https://img.shields.io/badge/Contacto-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alejandro.figueroa.rojas@gmail.com)
+[![Email](https://img.shields.io/badge/Contacto-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=Alejandro.figueroa.rojas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrofigueroarojas)
+
+
 
 ---
 
