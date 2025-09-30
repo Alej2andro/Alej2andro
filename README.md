@@ -1,80 +1,63 @@
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
-  <!-- Header -->
-  <h1 style="margin-bottom:4px">Alejandro Alberto Figueroa Rojas</h1>
-  <p style="margin-top:0; color:#555;">
-    Ingeniero Comercial • Transformo datos en decisiones • Python · R · RMarkdown · ML · IA 🚀
-  </p>
+# Alejandro Alberto Figueroa Rojas
 
-  <!-- Badges -->
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img alt="Excel Avanzado" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-    <img alt="ML" src="https://img.shields.io/badge/Machine%20Learning-6f42c1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img alt="IA" src="https://img.shields.io/badge/Inteligencia%20Artificial-00BFA5?style=for-the-badge&logo=artstation&logoColor=white" />
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**Ingeniero Comercial | Transformo datos en decisiones estratégicas | Python · R · ML**
 
-  <!-- Two-column card -->
-  <div style="display:flex; gap:20px; align-items:flex-start; justify-content:center; flex-wrap:wrap; max-width:900px; margin:auto;">
-    <!-- Left card -->
-    <div style="flex:1; min-width:260px; background:linear-gradient(180deg,#ffffff, #f8fbff); border-radius:12px; padding:18px; box-shadow: 0 6px 18px rgba(30,40,50,0.08);">
-      <h3 style="margin-top:0">🔎 Sobre mí</h3>
-      <p style="color:#333; line-height:1.45; margin-bottom:8px;">
-        Ingeniero Comercial con un enfoque estratégico y analítico. Especializado en convertir datos complejos en <strong>insights accionables</strong> que impulsan decisiones empresariales.
-      </p>
-      <p style="color:#333; line-height:1.45; margin:0;">
-        Me encanta documentar y reproducir análisis con <strong>RMarkdown</strong>, explorar modelos con <strong>Python</strong> y aplicar técnicas de <strong>machine learning</strong> e <strong>IA</strong> para resolver problemas reales.
-      </p>
-    </div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/RMarkdown-75AADB?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-6f42c1?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-    <!-- Right card -->
-    <div style="flex:1; min-width:260px; background:linear-gradient(180deg,#ffffff,#fff8f9); border-radius:12px; padding:18px; box-shadow: 0 6px 18px rgba(30,40,50,0.06);">
-      <h3 style="margin-top:0">✨ Propuesta de valor</h3>
-      <ul style="padding-left:18px; margin:0; color:#333; line-height:1.45;">
-        <li>Visualizaciones limpias y con impacto (LinkedIn-ready).</li>
-        <li>Proyectos reproducibles con RMarkdown y notebooks.</li>
-        <li>Integración de datos, modelado y despliegue de resultados.</li>
-      </ul>
-      <div style="margin-top:10px;">
-        <a href="mailto:Alejandro.figueroa.rojas@gmail.com" style="text-decoration:none;">
-          <img alt="Email" src="https://img.shields.io/badge/Contacto-email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <a href="https://www.linkedin.com/in/alejandrofigueroarojas" target="_blank" style="text-decoration:none;">
-          <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-      </div>
-    </div>
-  </div>
+---
 
-  <!-- Projects / Highlights -->
-  <div style="max-width:900px; margin:24px auto 6px; text-align:left;">
-    <h3 style="margin-bottom:6px">📁 Proyectos destacados</h3>
-    <ul style="color:#333; line-height:1.6;">
-      <li><strong>Visualizaciones de impacto:</strong> Radars, dashboards y storytelling de datos (listos para LinkedIn y presentaciones).</li>
-      <li><strong>Analítica reproducible:</strong> Workflows con RMarkdown y notebooks para documentar el proceso y resultados.</li>
-      <li><strong>Modelos prácticos:</strong> Pipelines de ML para clasificación/regresión con foco en aplicabilidad.</li>
-    </ul>
-  </div>
+## 💡 Sobre mí
 
-  <!-- GitHub stats (reemplazar GITHUB_USERNAME) -->
-  <div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; margin-top:8px;">
-    <!-- Reemplaza GITHUB_USERNAME por tu usuario -->
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=light&hide_border=true" style="border-radius:10px;">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=light&hide_border=true" style="border-radius:10px;">
-  </div>
+Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
 
-  <!-- Footer with CTA -->
-  <div style="margin-top:18px; color:#555;">
-    <p style="margin:6px 0 0;">
-      🔭 Actualmente aprendiendo y perfeccionando: <strong>Python avanzado</strong>, <strong>modelos ML</strong> y <strong>prácticas DevOps para data</strong>.
-    </p>
-    <p style="margin:4px 0 12px;">
-      📄 CV y contacto: <a href="mailto:Alejandro.figueroa.rojas@gmail.com">Alejandro.figueroa.rojas@gmail.com</a> • <a href="https://www.linkedin.com/in/alejandrofigueroarojas" target="_blank">LinkedIn</a>
-    </p>
-  </div>
+Mi formación y pasión me han llevado a dominar herramientas de análisis esenciales como **SQL**, **Excel Avanzado**, y **Power BI**. Complemento esta base con un fuerte desarrollo en **Python** y **R** (incluyendo desarrollo con **RMarkdown**), aplicando técnicas de **machine learning** e **inteligencia artificial**.
 
-  <!-- Small playful sign-off -->
-  <p style="font-size:12px; color:#888; margin-top:6px;">Made with ☕ + curiosidad — siempre aprendiendo. 🔁</p>
+Apasionado por el aprendizaje continuo y los desafíos analíticos, disfruto explorar nuevas formas de representar información de manera clara, estética y orientada a la toma de decisiones. Mi interés por la **ciencia de datos** me motiva a desarrollar proyectos reproducibles y bien documentados, siempre con el objetivo de aprender, compartir y mejorar.
+
+Este repositorio refleja mi compromiso con la mejora constante y mi motivación por aplicar la analítica y la IA a problemas reales.
+
+---
+
+## 🎯 Propuesta de valor
+
+* **Visualizaciones claras con impacto ejecutivo** (Power BI/R).
+* **Proyectos 100% reproducibles y documentados** (RMarkdown).
+* **Integración *end-to-end***: datos → modelos → *insights*.
+* **Mentalidad de mejora continua** y aprendizaje activo.
+
+[![Email](https://img.shields.io/badge/Contacto-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alejandro.figueroa.rojas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrofigueroarojas)
+
+---
+
+## 📂 Proyectos destacados
+
+- **Análisis climatológico predictivo:** Aplicación de Ridge, Lasso y Elastic Net para predicción de radiación solar con datos NASA POWER, incluyendo análisis exploratorio completo y visualizaciones profesionales.
+- **Visualizaciones de impacto:** Gráficos radar, matrices de correlación y dashboards interactivos optimizados para presentaciones ejecutivas.
+- **Workflows reproducibles:** Documentación técnica completa con RMarkdown, desde data cleaning hasta interpretación de modelos con rigor científico.
+
+---
+
+
+---
+
+## 🚀 Aprendizaje activo
+
+Profundizando en modelado avanzado, MLOps y mejores prácticas de ciencia de datos aplicada
+
+📬 [Alejandro.figueroa.rojas@gmail.com](mailto:Alejandro.figueroa.rojas@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alejandrofigueroarojas)
+
+---
+
+> 💻 Construido con curiosidad y disciplina  
+> 📚 Siempre desafiándome, siempre mejorando  
+> ☕ Made with coffee + dedication to learning
+
 </div>
