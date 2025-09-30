@@ -23,8 +23,6 @@
 
 ---
 
----
-
 ## 💡 Sobre mí
 
 Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
