@@ -27,11 +27,14 @@
 
 Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
 
-Mi formación y pasión me han llevado a dominar herramientas de análisis esenciales como **Power BI**, **Excel Avanzado** y **SQL**. Complemento esta base con un fuerte desarrollo en **Python** y **R** (incluyendo desarrollo con **RMarkdown**), aplicando técnicas de **machine learning** .
+Mi formación y pasión por la analítica me han llevado a desarrollar experiencia en **Python** y **R** (incluyendo **RMarkdown**), aplicando técnicas de **machine learning** y aprovechando la **inteligencia artificial** para optimizar el flujo de programación y trabajo.
 
-Apasionado por el aprendizaje continuo y los desafíos analíticos, disfruto explorar nuevas formas de representar información de manera clara, estética y orientada a la toma de decisiones. Mi interés por la **ciencia de datos** me motiva a desarrollar proyectos reproducibles y bien documentados, siempre con el objetivo de aprender, compartir y mejorar.
+Complemento esta base con el dominio de herramientas clave como **Power BI**, **Excel Avanzado** y **SQL**, lo que me permite integrar análisis avanzados con soluciones prácticas y efectivas.
+
+Apasionado por el aprendizaje continuo y los desafíos analíticos, disfruto diseñar representaciones claras, estéticas y orientadas a la acción. Mi interés por la **ciencia de datos** me impulsa a desarrollar proyectos reproducibles y bien documentados, con el objetivo de aprender, compartir y mejorar.
 
 Este repositorio refleja mi compromiso con la mejora constante y mi motivación por aplicar la analítica y la IA a problemas reales.
+
 
 ---
 
@@ -61,7 +64,6 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 
 Profundizando en modelado avanzado, MLOps y mejores prácticas de ciencia de datos aplicada
 
-📬 [Alejandro.figueroa.rojas@gmail.com](mailto:Alejandro.figueroa.rojas@gmail.com) • [LinkedIn](https://www.linkedin.com/in/alejandrofigueroarojas)
 
 ---
 <p align="center">
