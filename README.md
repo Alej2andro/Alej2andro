@@ -1,4 +1,4 @@
-# Alejandro Alberto Figueroa Rojas
+# Alejandro Figueroa Rojas
 
 **Ingeniero Comercial | Transformo datos en decisiones estratégicas | Python · R · ML**
 
@@ -12,8 +12,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-![Gemini Generated Image](https://github.com/Alej2andro/Alej2andro/raw/main/Gemini_Generated_Image_qkxpf6qkxpf6qkxp.png)
-
 
 ---
 
