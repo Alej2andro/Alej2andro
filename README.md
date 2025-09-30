@@ -39,7 +39,7 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos en proceso (pronto lo subire )
 
 -   **Análisis climatológico predictivo:** Aplicación de Ridge, Lasso y Elastic Net para predicción de radiación solar con datos NASA POWER, incluyendo análisis exploratorio completo y visualizaciones profesionales.
 -   **Visualizaciones de impacto:** Gráficos radar, matrices de correlación y *dashboards* interactivos optimizados para presentaciones ejecutivas.
@@ -59,5 +59,4 @@ Profundizando en modelado avanzado, MLOps y mejores prácticas de ciencia de dat
 > 📚 Siempre desafiándome, siempre mejorando
 > ☕ Made with coffee + dedication to learning
 >
-
-
+> 
