@@ -40,7 +40,7 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 
 ## 🎯 Propuesta de valor
 
-* **Visualizaciones claras con impacto ejecutivo** (Power BI/R).
+* **Visualizaciones claras con impacto ejecutivo** (R/Python/Power BI).
 * **Proyectos 100% reproducibles y documentados** (RMarkdown).
 * **Integración *end-to-end***: datos → modelos → *insights*.
 * **Mentalidad de mejora continua** y aprendizaje activo.
