@@ -8,7 +8,8 @@
   Aquí encontrarás proyectos donde la curiosidad, el análisis y la tecnología se unen para crear soluciones con impacto.
 </p>
 
-# Alejandro Figueroa Rojas
+# Alejandro Figueroa Rojas 📝 Blog: [Visita mi blog aquí](https://rpubs.com/Alej5ndro)
+
 
 **Ingeniero Comercial | Transformo datos en decisiones estratégicas | Python · R · ML**
 
