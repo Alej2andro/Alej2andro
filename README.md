@@ -53,11 +53,12 @@ Este repositorio refleja mi compromiso con la mejora constante y mi motivación 
 
 ---
 
-## 📂 Proyectos en proceso (pronto lo subire )
+📂 Proyectos en proceso (pronto lo subiré)
+🌳 Modelado con Árboles de Decisión: Implementación de modelos de Árboles de Decisión y Random Forests para [clasificación/regresión] en [menciona el dominio, ej: "análisis de riesgo", "segmentación de clientes"], con énfasis en la interpretabilidad y la importancia de variables.
 
--   **Análisis climatológico predictivo:** Aplicación de Ridge, Lasso y Elastic Net para predicción de radiación solar con datos NASA POWER, incluyendo análisis exploratorio completo y visualizaciones profesionales.
--   **Visualizaciones de impacto:** Gráficos radar, matrices de correlación y *dashboards* interactivos optimizados para presentaciones ejecutivas.
--   **Workflows reproducibles:** Documentación técnica completa con RMarkdown, desde *data cleaning* hasta interpretación de modelos con rigor científico.
+📊 Visualizaciones de Reglas Clave: Creación de gráficos de árbol, reglas de decisión y métricas de rendimiento (ej: matrices de confusión) optimizadas para una comprensión rápida y efectiva de la lógica del modelo.
+
+⚙️ Workflows Reproducibles: Documentación técnica completa con [RMarkdown/Jupyter Notebooks], abarcando desde la preparación de datos hasta la evaluación e interpretación del modelo con rigor científico.
 
 ---
 
