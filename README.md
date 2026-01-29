@@ -28,7 +28,7 @@
 
 Soy **Ingeniero Comercial** con enfoque estratégico y analítico, especializado en transformar datos complejos en *insights* que impulsan decisiones empresariales.
 
-Mi formación y pasión por la analítica me han llevado a desarrollar experiencia en **Python** y **R** (incluyendo **RMarkdown**), aplicando técnicas de **machine learning** y aprovechando la **inteligencia artificial** para optimizar el flujo de programación y trabajo.
+Mi formación y pasión por la analítica me han llevado a desarrollar experiencia en **Python** y **R** (incluyendo **RMarkdown**, **Quarto**), aplicando técnicas de **machine learning** y aprovechando la **inteligencia artificial** para optimizar el flujo de programación y trabajo.
 
 Complemento esta base con el dominio de herramientas clave como **Power BI**, **Excel Avanzado** y **SQL**, lo que me permite integrar análisis avanzados con soluciones prácticas y efectivas.
 
